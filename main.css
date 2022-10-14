@@ -205,7 +205,7 @@ header {
 .hero-content > p {
   padding: 0;
   max-width: 300px;
-  font-size: clamp(1rem, 1vw + 1rem, 3.5rem);
+  font-size: clamp(1rem, 1.2vw + 1rem, 3.5rem);
   text-align: right;
   margin-left:auto;
 }
@@ -657,11 +657,10 @@ i {
 
   .hero-content > h1 {
     max-width: 50%;
-/*     font-size: 8rem; */
+
   }
   .hero-content > p {
     max-width: 40%;
-/*     font-size: 3rem; */
     margin: auto 0;
   }
 
